@@ -1,0 +1,4 @@
+# Name  N_Neurons        Type       Alpha Beta Sigma Vth   Vreset   b    t_ref  alphaS  monitor_flag   
+exc1     1        EXCITATORY_NEURON  0.9  1.0   0.0  100.0  0.0   -40.0   40    0.975   true
+exc2     1        EXCITATORY_NEURON  0.9  1.0   0.0  100.0  0.0   -40.0   40    0.975   true
+inh      1        INHIBITORY_NEURON  0.9  1.0   0.0  100.0  0.0   -40.0   40    0.975   true

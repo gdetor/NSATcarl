@@ -1,0 +1,4 @@
+# GroupName  Type   DA_Mode   STDP_Fun is_set alphaPlus tauPlus alphaMinus tauMinus betaLtP betaLTD lambda delta gamma
+exc1          E    STANDARD     0      true     0.1      20.0     0.1        20.0    0.0     0.0     0.0   0.0   0.0 
+exc2          E    STANDARD     0      true     0.1      20.0     0.1        20.0    0.0     0.0     0.0   0.0   0.0 
+inh           I    STANDARD     0      true     0.1      20.0     0.1        20.0    0.0     0.0     0.0   0.0   0.0 

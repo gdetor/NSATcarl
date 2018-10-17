@@ -1,0 +1,2 @@
+# Name    N_Neurons       Type         OnGPU  Rate  Frequency Spike_At_Zero MonitorFlag 
+input        5    EXCITATORY_NEURON    false  50.0   25.0          false        true
